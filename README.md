@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋, I'm Alex</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Things" />
+</p>
+
 ![banner](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 # 💫 About Me:
