@@ -77,13 +77,13 @@ I love turning ideas into real products and continuously improving my craft with
 
 # 💡 Developer Mindset
 
-<p align="left">
+<p align="center">
 
-> “I don’t just build interfaces — I try to make them feel right.”
+> “I try to live and build like water — flexible, adaptable, and calm in every situation.”
 
 </p>
 
 <p align="left">
-I enjoy turning ideas into simple, clean, and enjoyable user experiences.  
-For me, good design and good code should work together, not compete.
+I adapt to bugs, layouts, colors, designs, and every challenge in front-end development.  
+For me, the goal is to stay flexible, solve problems smoothly, and keep improving with every project.
 </p>
