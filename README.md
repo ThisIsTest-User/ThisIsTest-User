@@ -79,7 +79,7 @@ I love turning ideas into real products and continuously improving my craft with
 
 <p align="center">
 
-> “I try to live and build like water — flexible, adaptable, and calm in every situation.”
+> “I try to live like water — flexible, adaptable, and calm in every situation.”
 
 </p>
 
