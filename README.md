@@ -24,7 +24,7 @@ I love turning ideas into real products and continuously improving my craft with
 
 ---
 
-# 🌈 Tech Stack
+# ⚙️ Tech Stack
 <p align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
@@ -32,8 +32,8 @@ I love turning ideas into real products and continuously improving my craft with
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![SASS](https://img.shields.io/badge/SASS-pink?style=for-the-badge&logo=sass&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=sass&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-8A2BE2?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
 
@@ -63,7 +63,8 @@ I love turning ideas into real products and continuously improving my craft with
 
 ---
 
-# ✍️ Random Dev Quote
+# 💡 Developer Mindset
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" width="650" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical&quote=Build%20things%20that%20matter%20and%20make%20them%20beautiful" width="650" />
 </p>
