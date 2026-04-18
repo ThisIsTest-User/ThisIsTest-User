@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=750&lines=Front-End+Developer;React+Specialist;UI%2FUX+Focused;Crafting+Modern+Web+Experiences;Always+Learning+%26+Improving" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=FAF6EB&center=true&vCenter=true&width=750&lines=Front-End+Developer;React+Specialist;UI%2FUX+Focused;Crafting+Modern+Web+Experiences;Always+Learning+%26+Improving" />
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@ I love turning ideas into real products and continuously improving my craft with
 ---
 
 # 📬 Connect With Me
-<p align="center">
+<p align="left">
   <a href="https://instagram.com/Sadra-7">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
@@ -77,13 +77,13 @@ I love turning ideas into real products and continuously improving my craft with
 
 # 💡 Developer Mindset
 
-<p align="center">
+<p align="left">
 
 > “I don’t just build interfaces — I try to make them feel right.”
 
 </p>
 
-<p align="center">
+<p align="left">
 I enjoy turning ideas into simple, clean, and enjoyable user experiences.  
 For me, good design and good code should work together, not compete.
 </p>
