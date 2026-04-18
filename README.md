@@ -1,36 +1,70 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=6000&color=ffffff&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Sadra+Amini" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=6000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Sadra+Amini" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=FAF6EB&center=true&vCenter=true&width=700&lines=Front-End+Developer;React+Specialist;UI%2FUX+Focused;Building+Clean+%26+Modern+Interfaces;Always+Learning+%26+Leveling+Up" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=1E90FF&center=true&vCenter=true&width=750&lines=Front-End+Developer;React+Specialist;UI%2FUX+Focused;Crafting+Modern+Web+Experiences;Always+Learning+%26+Improving" />
 </p>
-
-![banner](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
-
-# 💫 About Me:
-Hey 👋<br>I’m **ThisIsTest-User** — yeah, the name says “test”… but the work is real 😄<br><br>Mid-level Front-End Developer building smooth, modern web experiences 🌐<br>Powered by React ⚛️ and driven by a passion for clean UI and thoughtful UX 🎨<br><br>I like taking ideas from “just a concept” to something people can actually use and enjoy 💻<br>Always experimenting, always improving, and always chasing that *perfect feel* in every interface<br><br>Still testing. Still building. Still leveling up 🚀<br>
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sadra-7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sadra-amini) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sadra.amini1006@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ThisIsTest-User&theme=default&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=light" width="600" />
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" />
 </p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ThisIsTest-User&limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
+
+# 💫 About Me
+Hi 👋  
+I’m **Sadra Amini**, a Front-End Developer focused on building clean, modern, and user-centered web experiences.
+
+I specialize in **React ⚛️** and enjoy crafting interfaces that feel smooth, intuitive, and visually consistent 🎨  
+
+I care about the details — from layout structure to micro-interactions — because great UI is not just seen, it’s *felt*.
+
+I enjoy turning ideas into real, functional products 💻  
+and continuously improving with every project I build 🚀  
 
 ---
-[![](https://komarev.com/ghpvc/?username=ThisIsTest-User&icon=0&color=13)](https://visitcount.itsvg.in)
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://instagram.com/Sadra-7">
+    <img src="https://img.shields.io/badge/Instagram-1E90FF?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/Sadra-amini">
+    <img src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sadra.amini1006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack
+<p align="center">
+  
+![HTML5](https://img.shields.io/badge/html5-1E90FF.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1E90FF.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-1E90FF.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-1E90FF.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-1E90FF.svg?style=for-the-badge&logo=react&logoColor=white)
+![SASS](https://img.shields.io/badge/sass-1E90FF.svg?style=for-the-badge&logo=sass&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-1E90FF.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ThisIsTest-User&theme=algolia&no-frame=true&no-bg=true&margin-w=6" />
+</p>
+
+---
+
+## ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light" width="650" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
