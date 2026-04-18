@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Just a Test</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Just a Test" />
+</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Front-End+Developer;React+Specialist;UI%2FUX+Focused;Building+Clean+%26+Modern+Interfaces;Always+Learning+%26+Leveling+Up" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Front-End+Developer;React+Specialist;UI%2FUX+Focused;Building+Clean+%26+Modern+Interfaces;Always+Learning+%26+Leveling+Up" />
 </p>
 
 ![banner](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
