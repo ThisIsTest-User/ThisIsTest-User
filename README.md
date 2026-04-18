@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=1E90FF&center=true&vCenter=true&width=750&lines=Front-End+Developer;React+Specialist;UI%2FUX+Focused;Crafting+Modern+Web+Experiences;Always+Learning+%26+Improving" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=750&lines=Front-End+Developer;React+Specialist;UI%2FUX+Focused;Crafting+Modern+Web+Experiences;Always+Learning+%26+Improving" />
 </p>
 
 <p align="center">
@@ -14,57 +14,56 @@
 
 # 💫 About Me
 Hi 👋  
-I’m **Sadra Amini**, a Front-End Developer focused on building clean, modern, and user-centered web experiences.
+I’m **Sadra Amini**, a Front-End Developer focused on crafting beautiful, fast, and user-centered web experiences 🌐  
 
-I specialize in **React ⚛️** and enjoy crafting interfaces that feel smooth, intuitive, and visually consistent 🎨  
+I specialize in **React ⚛️** and enjoy building interfaces that feel smooth, intuitive, and visually refined 🎨  
 
-I care about the details — from layout structure to micro-interactions — because great UI is not just seen, it’s *felt*.
+I believe great UI is a balance between design and logic — where every detail matters ✨  
 
-I enjoy turning ideas into real, functional products 💻  
-and continuously improving with every project I build 🚀  
+I love turning ideas into real products and continuously improving my craft with every project 💻🚀  
 
 ---
 
-## 🌐 Connect with Me
+# 🌈 Tech Stack
+<p align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![SASS](https://img.shields.io/badge/SASS-pink?style=for-the-badge&logo=sass&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
+
+</p>
+
+---
+
+# 📬 Connect With Me
 <p align="center">
   <a href="https://instagram.com/Sadra-7">
-    <img src="https://img.shields.io/badge/Instagram-1E90FF?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/Sadra-amini">
-    <img src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:sadra.amini1006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 💻 Tech Stack
+# 🏆 GitHub Achievements
 <p align="center">
-  
-![HTML5](https://img.shields.io/badge/html5-1E90FF.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1E90FF.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-1E90FF.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-1E90FF.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-1E90FF.svg?style=for-the-badge&logo=react&logoColor=white)
-![SASS](https://img.shields.io/badge/sass-1E90FF.svg?style=for-the-badge&logo=sass&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-1E90FF.svg?style=for-the-badge&logo=figma&logoColor=white)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=ThisIsTest-User&theme=radical&no-frame=true&no-bg=true&margin-w=6" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ThisIsTest-User&theme=algolia&no-frame=true&no-bg=true&margin-w=6" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" width="650" />
 </p>
-
----
-
-## ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light" width="650" />
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
