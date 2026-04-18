@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=1E90FF&center=true&vCenter=true&width=700&lines=Front-End+Developer;React+Specialist;UI%2FUX+Focused;Building+Clean+%26+Modern+Interfaces;Always+Learning+%26+Leveling+Up" />
 </p>
 
-![banner](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+![banner](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2doYjN6NzVzeG5reGpnZ2FvOHdsYWcwYmhiZ2pvY3ZmNHV3djVoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lnq52t8atIw3m/giphy.gif)
 
 # 💫 About Me:
 Hey 👋<br>I’m **ThisIsTest-User** — yeah, the name says “test”… but the work is real 😄<br><br>Mid-level Front-End Developer building smooth, modern web experiences 🌐<br>Powered by React ⚛️ and driven by a passion for clean UI and thoughtful UX 🎨<br><br>I like taking ideas from “just a concept” to something people can actually use and enjoy 💻<br>Always experimenting, always improving, and always chasing that *perfect feel* in every interface<br><br>Still testing. Still building. Still leveling up 🚀<br>
