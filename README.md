@@ -22,9 +22,10 @@ Hey 👋<br>I’m **ThisIsTest-User** — yeah, the name says “test”… but 
 ![](https://github-profile-trophy.vercel.app/?username=ThisIsTest-User&theme=default&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-<div style="display: flex; justify-content: center">
-  ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
-</div>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=light" width="600" />
+</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ThisIsTest-User&limit=5&theme=dark&combine_all_yearly_contributions=true)
