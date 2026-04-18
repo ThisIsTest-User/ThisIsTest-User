@@ -24,20 +24,32 @@ I love turning ideas into real products and continuously improving my craft with
 
 ---
 
-# ⚙️ Tech Stack
-<p align="center">
+# 💻 Tech Stack
 
+## 🎯 Frontend Core
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+## ⚛️ Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![SASS](https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=sass&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-pink?style=for-the-badge&logo=sass&logoColor=white)
+
+## 🎨 UI / UX & Design
 ![Figma](https://img.shields.io/badge/Figma-8A2BE2?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
+
+## ⚙️ Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
 
-</p>
+## 🗄️ Backend Basics
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
@@ -67,10 +79,11 @@ I love turning ideas into real products and continuously improving my craft with
 
 <p align="center">
 
-> “I believe great UI is not just designed — it’s engineered with intention.”
+> “I don’t just build interfaces — I try to make them feel right.”
 
 </p>
 
 <p align="center">
-  I focus on building clean, scalable, and meaningful user experiences where design and performance work together.
+I enjoy turning ideas into simple, clean, and enjoyable user experiences.  
+For me, good design and good code should work together, not compete.
 </p>
