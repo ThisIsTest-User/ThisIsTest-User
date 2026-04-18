@@ -66,5 +66,11 @@ I love turning ideas into real products and continuously improving my craft with
 # 💡 Developer Mindset
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical&quote=Build%20things%20that%20matter%20and%20make%20them%20beautiful" width="650" />
+
+> “I believe great UI is not just designed — it’s engineered with intention.”
+
+</p>
+
+<p align="center">
+  I focus on building clean, scalable, and meaningful user experiences where design and performance work together.
 </p>
